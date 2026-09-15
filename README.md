@@ -12,3 +12,4 @@ e iniciando aprendezado de JavaScript e React.
 <br/>
 🖍Estou trabalhando atualmente em uma gráfica de comunicação visual.
 <br/>
+
